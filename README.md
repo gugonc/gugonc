@@ -30,7 +30,7 @@
 ### 🔭 Estudo atual
 <table>
   <tr>
-    <td align="left" width="140">
+    <td align="right" width="140">
       <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" /><br>
       <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" />
     </td>
@@ -39,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="right">
       <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Badge" />
     </td>
     <td>
@@ -47,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="right">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
     </td>
     <td>
@@ -55,7 +55,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="right">
       <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
     </td>
     <td>
@@ -63,7 +63,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="right">
       <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
     </td>
     <td>
