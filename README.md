@@ -8,7 +8,7 @@
 - 🧑‍🎓 Formado em **Análise e desevolvimentos de Sistemas** (Agosto/2025).
 - 🎓 Atualmente cursando **Pós-graduação em Java**, aprofundando conhecimentos em arquitetura e performance.
 - 🏗️ Desenvolvimento do **Uniclin**: Um sistema de gestão odontológica moderno com PHP 8.3, Node.js e MariaDB.
-- ☕ Recentemente iniciei dois projetos utilizando **Spring Boot**, para implementar e .
+- ☕ Recentemente iniciei dois projetos utilizando **Spring Boot**, para aprofundar o domínio no ecossistema Java.
 - 🛠️ Entusiasta de **Docker** e automação de infraestrutura Linux.
 
 ---
@@ -33,15 +33,18 @@
 
 ---
 
-### 🔭 Foco Atual & Pesquisa
-- ![TS](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) Implementar e entender padrões de projeto para interfaces complexas. | 📚 Estudando |
-- ![K8s](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) Orquestração de microsserviços para garantir alta disponibilidade. | 🛠️ Praticando |
-- ![Automotive](https://img.shields.io/badge/Automotive-Protocolos-blue?style=flat-square) Engenharia reversa e comunicação em rede automotiva. | 🔍 Aperfeiçoando |
+### 🔭 Estudo atual
+- ![TS](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) Implementar e entender padrões de projeto para interfaces complexas.
+- ![K8s](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) Orquestração de microsserviços para garantir alta disponibilidade. 
+- ![Automotive](https://img.shields.io/badge/Automotive-Protocolos-blue?style=flat-square) Engenharia reversa e comunicação em rede automotiva. 
 
 ---
 
 ### ⚡ Curiosidade
-- **Tabs over Spaces.** (Sempre!) 💻
+- 🥁 Toco bateria e sou apaixonado por música.
+- 🎮 Gosto de relaxar jogando (quase qualquer gênero de jogos).
+- 🏃‍♂️ Amo praticar esportes e fazer atividade física.
+- 🛠️ Curioso sobre sistemas Linux.
 
 ---
 
