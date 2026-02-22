@@ -26,9 +26,7 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,php,laravel,mysql,docker,linux,git,python&perline=6" alt="Minhas Habilidades" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gugonc&theme=dracula" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
