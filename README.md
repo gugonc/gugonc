@@ -45,6 +45,14 @@
   </tr>
   <tr>
     <td align="left">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+    </td>
+    <td>
+      Explorando infraestrutura em nuvem, deploy e serviços escaláveis.
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
       <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
     </td>
     <td>
