@@ -1,5 +1,6 @@
 # Olá, bem-vindo ao meu perfil no GitHub 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=1826CA&width=435&lines=Desenvolvedor)](https://git.io/typing-svg)
 ---
 
 ### 🚀 Sobre Mim
@@ -75,7 +76,7 @@
 - 🥁 Toco bateria e sou apaixonado por música.
 - 🎮 Gosto de relaxar jogando (quase qualquer gênero de jogos).
 - 🏃‍♂️ Amo praticar esportes e fazer atividade física.
-- 🛠️ Curioso sobre sistemas Linux.
+- 🐧 Curioso sobre sistemas Linux.
 
 ---
 
