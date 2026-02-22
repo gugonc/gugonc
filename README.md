@@ -1,7 +1,7 @@
 # Olá, bem-vindo ao meu perfil no GitHub 👋
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJmZGJvNDV1cDl6N2hwNDdmNGZybzY3c2dqcmhnemNueThhOTE0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Epy1SqYt1nHvq/giphy.gif" alt="Banner Tech" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2psZmNnY3Flbm9kemM0d2Q1dmdhMHM2Njd4Zm85cW41ZWZlc205aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kudIERso2pFiE/giphy.gif" alt="Banner Tech" width="60%" />
 </p>
 
 ---
