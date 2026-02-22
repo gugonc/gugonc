@@ -23,14 +23,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gugonc&theme=dracula" alt="Linguagens Mais Usadas" />
-</p>
-
----
-
 ### 🔭 Estudo atual
 - ![TS](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) Implementar e entender padrões de projeto para interfaces complexas.
 - ![K8s](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) Orquestração de microsserviços para garantir alta disponibilidade. 
