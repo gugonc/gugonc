@@ -34,9 +34,9 @@
 ---
 
 ### 🔭 Foco Atual & Pesquisa
-![TS](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) Implementar e entender padrões de projeto para interfaces complexas. | 📚 Estudando |
-![K8s](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) Orquestração de microsserviços para garantir alta disponibilidade. | 🛠️ Praticando |
-![Automotive](https://img.shields.io/badge/Automotive-Protocolos-blue?style=flat-square) Engenharia reversa e comunicação em rede automotiva. | 🔍 Aperfeiçoando |
+- ![TS](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) Implementar e entender padrões de projeto para interfaces complexas. | 📚 Estudando |
+- ![K8s](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) Orquestração de microsserviços para garantir alta disponibilidade. | 🛠️ Praticando |
+- ![Automotive](https://img.shields.io/badge/Automotive-Protocolos-blue?style=flat-square) Engenharia reversa e comunicação em rede automotiva. | 🔍 Aperfeiçoando |
 
 ---
 
