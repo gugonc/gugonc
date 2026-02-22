@@ -1,7 +1,7 @@
 # Olá, bem-vindo ao meu perfil no GitHub 👋
 
  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=300&size=30&pause=1000&color=DF7218&width=435&lines=Desenvolvedor+FullStack" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=F79315&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack" alt="Typing SVG" /></a>
  </p>
 
 
