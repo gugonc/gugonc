@@ -30,41 +30,40 @@
 ### 🔭 Estudo atual
 <table>
   <tr>
-    <td align="right" width="140">
-      <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" /><br>
-      <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge" />
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java,spring" alt="Java e Spring" />
     </td>
     <td>
       Aprofundando conhecimentos no ecossistema <b>Java</b> e <b>Spring</b>.
     </td>
   </tr>
   <tr>
-    <td align="right">
-      <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx Badge" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" />
     </td>
     <td>
       Estudando servidores web e proxy reverso.
     </td>
   </tr>
   <tr>
-    <td align="right">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Badge" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
     </td>
     <td>
       Explorando infraestrutura em nuvem, deploy e serviços escaláveis.
     </td>
   </tr>
   <tr>
-    <td align="right">
-      <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
     </td>
     <td>
       Implementar e entender padrões de projeto para interfaces complexas.
     </td>
   </tr>
   <tr>
-    <td align="right">
-      <img src="https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
     </td>
     <td>
       Orquestração de microsserviços para garantir alta disponibilidade.
