@@ -1,5 +1,8 @@
 # Olá, bem-vindo ao meu perfil no GitHub 👋
 
+<p align="center">
+  <img src="[http://googleusercontent.com/image_collection/image_retrieval/2997165159160570768](https://duckly.com/blog/content/images/2021/09/how-to-start.gif)" alt="Banner Tech" width="100%" />
+</p>
 
 ---
 
