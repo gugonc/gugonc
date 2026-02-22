@@ -1,8 +1,9 @@
 # Olá, bem-vindo ao meu perfil no GitHub 👋
+
  <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=1826CA&width=435&lines=Desenvolvedor" alt="Typing SVG" /></a>
  </p>
----
+
 
 ### 🚀 Sobre Mim
 
