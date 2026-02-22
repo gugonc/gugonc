@@ -26,8 +26,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gugonc&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugonc&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180px" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugonc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugonc&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
