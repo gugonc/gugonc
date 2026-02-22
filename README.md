@@ -1,7 +1,11 @@
 # Olá, bem-vindo ao meu perfil no GitHub 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Developer;Freelancer+desde+2013;Especialista+em+MERN+Stack;Pós-graduando+em+Java" alt="Typing SVG" />
+  <img src="http://googleusercontent.com/image_collection/image_retrieval/2997165159160570768" alt="Banner Tech" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=450&lines=Full-Stack+Developer;Freelancer+desde+2013;Especialista+em+MERN+Stack;P%C3%B3s-graduando+em+Java" alt="Typing SVG" />
 </p>
 
 ---
