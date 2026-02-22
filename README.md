@@ -55,10 +55,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=ts,react" alt="TypeScript e React" />
     </td>
     <td>
-      Implementar e entender padrões de projeto para interfaces complexas.
+      Aprimorando o desenvolvimento front-end para a criação de aplicações e interfaces mais robustas.
     </td>
   </tr>
   <tr>
