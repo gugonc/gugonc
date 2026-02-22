@@ -58,14 +58,6 @@
       Orquestração de microsserviços para garantir alta disponibilidade.
     </td>
   </tr>
-  <tr>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Automotive_Protocolos-555555?style=for-the-badge&logo=car&logoColor=white" alt="Automotive Badge" />
-    </td>
-    <td>
-      Engenharia reversa e comunicação em rede automotiva.
-    </td>
-  </tr>
 </table>
 
 ---
