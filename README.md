@@ -24,6 +24,8 @@
 ---
 
 ### 🔭 Estudo atual
+-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) Aprofundando conhecimentos no ecossistema Java e Spring.
+-  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) Estudando servidores web e proxy reverso.
 - ![TS](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) Implementar e entender padrões de projeto para interfaces complexas.
 - ![K8s](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) Orquestração de microsserviços para garantir alta disponibilidade. 
 - ![Automotive](https://img.shields.io/badge/Automotive-Protocolos-blue?style=flat-square) Engenharia reversa e comunicação em rede automotiva. 
