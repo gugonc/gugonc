@@ -26,7 +26,9 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gugonc&theme=dracula&hide_border=true" alt="Estatísticas do GitHub" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nodejs,php,laravel,mysql,docker,linux,git,python&perline=6" alt="Minhas Habilidades" />
+  </a>
 </p>
 
 ---
