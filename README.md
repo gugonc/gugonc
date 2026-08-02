@@ -8,7 +8,7 @@
 ### 🚀 Sobre Mim
 
 - 🧑‍🎓 Formado em **Análise e desevolvimentos de Sistemas** (Agosto/2025).
-- 🎓 Atualmente cursando **Pós-graduação em Java**, aprofundando conhecimentos em arquitetura e performance.
+- 🎓 Pós-graduado em **Desenvolvimento de sistemas com Java**, aprofundando conhecimentos em arquitetura e performance.
 - 💻 3 anos de experiência em engenharia reversa de protocolos automotivos, programação de firmware em Assembly e sistemas de chaves codificadas e imobilizadores.
 - 🏗️ Desenvolvimento do **Uniclin**: Um sistema de gestão odontológica com PHP 8.3, Laravel, Node.js e MariaDB.
 - ☕ Recentemente iniciei dois projetos utilizando **Spring Boot**, para aprofundar o domínio no ecossistema Java.
